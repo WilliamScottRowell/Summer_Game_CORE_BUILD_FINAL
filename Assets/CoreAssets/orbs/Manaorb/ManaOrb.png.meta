@@ -1,0 +1,2786 @@
+fileFormatVersion: 2
+guid: 711c9c0456d8df54d978492efdc07e4c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ManaOrb_00000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3897
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b00a580c8e278e49886a75618d988b0
+      internalID: 1966305515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00001
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3897
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6dddb429bd41949a2618ccca3088a8
+      internalID: 1916966897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00002
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3897
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b975844c5ef4543a7c501d935c31ff
+      internalID: 299449620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00003
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3897
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac45be3677e40c488bda5675483db57
+      internalID: 838588800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00004
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 3897
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe2dc1d87aaaf6409b038df046c3382
+      internalID: -1658890407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00005
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 3897
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda3927cd0b0057419e7f35a994e0771
+      internalID: -136152024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00006
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3897
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6748920b803ad4d873e735d39d5c57
+      internalID: -1102291327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00007
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 3897
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2aa919dd06d524db97d64e805726e0
+      internalID: -1969524429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00008
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 3897
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669eb030c944f93488cd354b8a3adc57
+      internalID: 989123378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00009
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 3897
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f2fc8262294954abc4148d4909184c
+      internalID: -908041672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3698
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1144bde689f54694393c4f76f283b592
+      internalID: -1840186171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00011
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3698
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2329081f39c3b4fa9094dbcfc758d2
+      internalID: -580971710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00012
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3698
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d79bddd8fd43914a814e69ba95d1fe7
+      internalID: -1739497291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00013
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3698
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bb297e4634f7d41a9a419db01d96f0
+      internalID: -1384044793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00014
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 3698
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d27ef6c697c2f44a209ebb64f81ed4
+      internalID: -200604485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00015
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 3698
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9117528096531474dba2eedd8ac9c6c8
+      internalID: 337889061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00016
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3698
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d456ae6bdcb20df449a998c8b0e7c7ad
+      internalID: -1918070069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00017
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 3698
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260eb378c7af53a4bbfcce57297ff5a5
+      internalID: 1764423651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00018
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 3698
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb433116fca7ba41a3e0c5fc67e1515
+      internalID: 924239864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00019
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 3698
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f145c437dea8347b3d0f6472305d0e
+      internalID: 1011681181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00020
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3499
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f9f36b4d028fd46866990a0816dcb0
+      internalID: 691209630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00021
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3499
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4d5d0fc04fc0c44b9c8201355d4b0a
+      internalID: -723622747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00022
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3499
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ac6bdb1d2972744b08a5cf73d834f5
+      internalID: -900814131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00023
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3499
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d958bd11159c644950704355a0fd42
+      internalID: -860403791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00024
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 3499
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20403f278a4bb7f43840cc6864b8b3a8
+      internalID: 1289423923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00025
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 3499
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11131bb996f58142ad8c58b1cad8aef
+      internalID: -1321788228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00026
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3499
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b166067a141a8d040889ead560f966f3
+      internalID: 1436656072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00027
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 3499
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d198467a58d65048afe54b6d412a4e7
+      internalID: -1997186521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00028
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 3499
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647d69d114f198e4a8aa89d75a9d5bc4
+      internalID: 1139925712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00029
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 3499
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5764c2b1d2160469f69847951c83ce
+      internalID: 175230498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00030
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3300
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d875d5313a5f749a743db39f4f8d2d
+      internalID: -1038806983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00031
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3300
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2863b3599c37264389a1dc2a79385cb
+      internalID: -893859187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00032
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3300
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcea114f4a3834846acbae6cd56d46de
+      internalID: -2052270498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00033
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3300
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82760aaaced69041b0b97707521e9a8
+      internalID: 1682776692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00034
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 3300
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec75d2d7d29831447918b1b1fd8333f2
+      internalID: -552330441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00035
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 3300
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233a9cc41be0c134db3d1f29eff2fddb
+      internalID: -942097116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00036
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3300
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378745a9d8212474389d71b122689ca0
+      internalID: -1317383681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00037
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 3300
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ee06b11b641ad4f8bbe0c713441b77
+      internalID: 166958072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00038
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 3300
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cda6aea09ee2c468aa991745f16bfa
+      internalID: 167244832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00039
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 3300
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb4c1210394c2b4a8561b164a886953
+      internalID: -1020994235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00040
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3101
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d44d5488e3dc654facffe2f8cc5c083
+      internalID: 1268927754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00041
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3101
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c6e6fbe1dbe6d4f86ebe599ef19376
+      internalID: -278804092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00042
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3101
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f763448b8a6b824bb3b2ec52cd7e9ed
+      internalID: -1417110601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00043
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3101
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb6dd86352d0a84d9bacae274c6c8e6
+      internalID: -449074117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00044
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 3101
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321160c2d1056e04aa9db6c38a0f984c
+      internalID: -1794116240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00045
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 3101
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cf1af84211f2b439ba817c404348b6
+      internalID: 196067597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00046
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3101
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a5ec7738c89f2409f9a1cd098cc07d
+      internalID: 421933547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00047
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 3101
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff838df4fec2e8743b4dfd3aa7834542
+      internalID: 1428851497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00048
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 3101
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeee69d31d78db34cbb52d0df5acf66b
+      internalID: -301230812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00049
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 3101
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630a5bdce054d294abb3efce8e2a7fcd
+      internalID: 1913504042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00050
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2902
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044f785dbbe2c3c4b9bf52d59b66a1bd
+      internalID: -1541648915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00051
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2902
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b114ded8e9f63234f942867d78b1253c
+      internalID: 985150381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00052
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2902
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b744bfd5b51a848bb6a61771cad5b2
+      internalID: -973964069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00053
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2902
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8c1e11210388243b2c813e682a0724
+      internalID: -328789190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00054
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2902
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69b32c5bf67ef945a8a39fcbffcdac3
+      internalID: 2048522055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00055
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2902
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fb534c6d478bd4cbb9683e17c3b2b1
+      internalID: 1164843778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00056
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 2902
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8813cf33d7b06ce48b35f35a1f131f51
+      internalID: 1543102436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00057
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2902
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f95d0e58a83f6d4c85ffa732df91cfb
+      internalID: 241641078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00058
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2902
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c771a6e9f12af7c43b48e63f35813f91
+      internalID: 869964647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00059
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 2902
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfd056b5f8257a428b87aff91675b3c
+      internalID: -1911721761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00060
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2703
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d4498cf47a6c5479497811fd1b4597
+      internalID: -900400053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00061
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2703
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb031c6b7da1e245b84f1da73f81135
+      internalID: 619212796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00062
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2703
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671f6e9adb2f62447ab79903cb3f5e62
+      internalID: -1439476228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00063
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2703
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f932a4eb68cfcd448a5f98a5d01bcdbf
+      internalID: 1869717864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00064
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2703
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c22ff546045bc46b62adaae5882b62
+      internalID: 363879720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00065
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2703
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db5f9441c7553145abdafa7cb8e84a7
+      internalID: 212085069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00066
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 2703
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129cd445b3638f841955996acbf4a6ab
+      internalID: 2063481215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00067
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2703
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b1b250c46fa5c4d8582826178bdcd2
+      internalID: -424111212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00068
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2703
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015d477350b37674eafab340019aeeca
+      internalID: 1768260451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00069
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 2703
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3868de888fc3a334683337b9cb7c4c72
+      internalID: -662061203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00070
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2504
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a130d43ddbe834e9966aa943da50c1
+      internalID: -1345191359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00071
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2504
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f881e6f625cf3c94b855efc48ac7565a
+      internalID: 507058678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00072
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2504
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7579e0b44f84f34cad5a698f5be2d4b
+      internalID: -963102293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00073
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2504
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a65f15208380b34d8544f6099d0cb98
+      internalID: -1631311097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00074
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2504
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e0c1ec0abf8554bab0cb61873c18ac
+      internalID: -1749219497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00075
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2504
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365e5a20a83f0c44bb8b2e589cbb0979
+      internalID: -2139020125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00076
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 2504
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dba062700509546a88d02f9d3b3e19
+      internalID: -1865677124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00077
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2504
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ca818e5c7dea34991fda8a5649a902
+      internalID: -648114681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00078
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2504
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bcb8600b38fdb42b0dde944eec8a1f
+      internalID: -1361620282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00079
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 2504
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d5b2d22531a9645b8783aa859e813f
+      internalID: -2000725664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00080
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2305
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf086c352f0ab564ab82994413805421
+      internalID: -1808910714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00081
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2305
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb213c390b1d944cb76c7fd044f2000
+      internalID: -1660091795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00082
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2305
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3991275231d0a804a930b313eeaf19f3
+      internalID: -1322117032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00083
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2305
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c04fca3707d90a49997c19ba09ae9e6
+      internalID: 1464758328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00084
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2305
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c5b2adafb9c3048bea28758d2e5d80
+      internalID: -635478395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00085
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2305
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507e4d70d38754540a4c6efe6412d7ae
+      internalID: -1717497286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00086
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 2305
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07e394d2add1fe4fb19240882c87e2b
+      internalID: -329345427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00087
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2305
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e969d22abf01c24b8c945d9345dd53b
+      internalID: 1992091398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00088
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2305
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fc48348a8021d4a9f7eba29e8250c2
+      internalID: 1412197143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00089
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 2305
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803c8bf0b4bf3cd4bba41b7d6539f8bb
+      internalID: -156542566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00090
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2106
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e63994f8ae8614d881c6f1244c2e05
+      internalID: 639273455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00091
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2106
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de11493aaee024b4cb57cd68f3a13d7f
+      internalID: -1440173248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00092
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2106
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a13f87074e9c84bb98627fb113d37b
+      internalID: -1319676082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00093
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2106
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a7d57305044f2408ae387542b49e27
+      internalID: -649056041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00094
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2106
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348d93506e0424d4abb517d21e931de6
+      internalID: 899473834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00095
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2106
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545bf7b4018aaa3498094adbb71fbd41
+      internalID: -102240321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00096
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 2106
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b5411131b9632498aa231fc96aba00
+      internalID: -1159439634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00097
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2106
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343d8a594d4f88944a9851eefe08bada
+      internalID: 1196584312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00098
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2106
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7381a78c91ffa1744a44c0848065ad29
+      internalID: 1189696318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00099
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 2106
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e5c9aa8d0c50643882ae441216018d
+      internalID: 362984691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1907
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8ef36e6ba8bb445bcdefd54281258c
+      internalID: -1258721976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00101
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1907
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a60ede89dccc942a5403fe0555fc4a
+      internalID: 656625710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00102
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1907
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9294fd068eba1804e875e4a3a65de813
+      internalID: -1615775615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00103
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1907
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac89889d22a5e864c8378d08e3e405d1
+      internalID: -811017918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00104
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1907
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87a2ea58e0c5d34688668304d7be1c2
+      internalID: 1550306222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00105
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1907
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6c40117af6ba14f8b62e1dda6c6c6d
+      internalID: 2012686788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00106
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1907
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bde2cb5c0f40b242add5a04dedd578f
+      internalID: 1209978447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00107
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1907
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b1e906fe4dbe34086a5797ea180321
+      internalID: 423789395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00108
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1907
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e540f1790c9fa478bd315a426d9d3c
+      internalID: -1448543303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00109
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1907
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a8327d310ab32459e4faf83249fc33
+      internalID: 262983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1708
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1458d640e44614db1160a39f5a8ce5
+      internalID: 1628958862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00111
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1708
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ab01e2cd29fbd409d623e9aad838c5
+      internalID: -1784478562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00112
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1708
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1603b0cdb3d298418265b7f55f7f41a
+      internalID: 201841337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00113
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1708
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a63c3585a86014b86ec1c43e54a4a2
+      internalID: 752313107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00114
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1708
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13568b65eeba73438427a109caa3b09
+      internalID: -578124556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00115
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1708
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2640d49f1d62984438ed420ebdb56e2c
+      internalID: 1013157607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00116
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1708
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d81642e3a7bfad43b1581e2a25ead1a
+      internalID: 1820279311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00117
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1708
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe86815b4e96e741917169c191d8a55
+      internalID: 880857597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00118
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1708
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6f4bc16acf2c149adda531f6c56a51
+      internalID: -574208952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaOrb_00119
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1708
+        width: 196
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859ebfa2b3af78943b0d42f04470a339
+      internalID: 1408699136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ba178c85fb9c9364b927c6d73491c39a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ManaOrb_00072: -963102293
+      ManaOrb_00115: 1013157607
+      ManaOrb_00058: 869964647
+      ManaOrb_00040: 1268927754
+      ManaOrb_00009: -908041672
+      ManaOrb_00062: -1439476228
+      ManaOrb_00026: 1436656072
+      ManaOrb_00012: -1739497291
+      ManaOrb_00004: -1658890407
+      ManaOrb_00111: -1784478562
+      ManaOrb_00073: -1631311097
+      ManaOrb_00015: 337889061
+      ManaOrb_00036: -1317383681
+      ManaOrb_00028: 1139925712
+      ManaOrb_00021: -723622747
+      ManaOrb_00030: -1038806983
+      ManaOrb_00095: -102240321
+      ManaOrb_00006: -1102291327
+      ManaOrb_00035: -942097116
+      ManaOrb_00019: 1011681181
+      ManaOrb_00018: 924239864
+      ManaOrb_00041: -278804092
+      ManaOrb_00064: 363879720
+      ManaOrb_00046: 421933547
+      ManaOrb_00007: -1969524429
+      ManaOrb_00054: 2048522055
+      ManaOrb_00044: -1794116240
+      ManaOrb_00053: -328789190
+      ManaOrb_00023: -860403791
+      ManaOrb_00003: 838588800
+      ManaOrb_00059: -1911721761
+      ManaOrb_00010: -1840186171
+      ManaOrb_00060: -900400053
+      ManaOrb_00114: -578124556
+      ManaOrb_00049: 1913504042
+      ManaOrb_00051: 985150381
+      ManaOrb_00014: -200604485
+      ManaOrb_00025: -1321788228
+      ManaOrb_00082: -1322117032
+      ManaOrb_00091: -1440173248
+      ManaOrb_00088: 1412197143
+      ManaOrb_00070: -1345191359
+      ManaOrb_00002: 299449620
+      ManaOrb_00087: 1992091398
+      ManaOrb_00109: 262983
+      ManaOrb_00047: 1428851497
+      ManaOrb_00080: -1808910714
+      ManaOrb_00099: 362984691
+      ManaOrb_00031: -893859187
+      ManaOrb_00112: 201841337
+      ManaOrb_00071: 507058678
+      ManaOrb_00005: -136152024
+      ManaOrb_00052: -973964069
+      ManaOrb_00096: -1159439634
+      ManaOrb_00103: -811017918
+      ManaOrb_00039: -1020994235
+      ManaOrb_00085: -1717497286
+      ManaOrb_00105: 2012686788
+      ManaOrb_00066: 2063481215
+      ManaOrb_00055: 1164843778
+      ManaOrb_00102: -1615775615
+      ManaOrb_00013: -1384044793
+      ManaOrb_00027: -1997186521
+      ManaOrb_00100: -1258721976
+      ManaOrb_00116: 1820279311
+      ManaOrb_00092: -1319676082
+      ManaOrb_00076: -1865677124
+      ManaOrb_00065: 212085069
+      ManaOrb_00119: 1408699136
+      ManaOrb_00078: -1361620282
+      ManaOrb_00057: 241641078
+      ManaOrb_00011: -580971710
+      ManaOrb_00037: 166958072
+      ManaOrb_00090: 639273455
+      ManaOrb_00050: -1541648915
+      ManaOrb_00043: -449074117
+      ManaOrb_00042: -1417110601
+      ManaOrb_00110: 1628958862
+      ManaOrb_00020: 691209630
+      ManaOrb_00118: -574208952
+      ManaOrb_00017: 1764423651
+      ManaOrb_00077: -648114681
+      ManaOrb_00108: -1448543303
+      ManaOrb_00067: -424111212
+      ManaOrb_00048: -301230812
+      ManaOrb_00097: 1196584312
+      ManaOrb_00101: 656625710
+      ManaOrb_00045: 196067597
+      ManaOrb_00074: -1749219497
+      ManaOrb_00107: 423789395
+      ManaOrb_00008: 989123378
+      ManaOrb_00086: -329345427
+      ManaOrb_00089: -156542566
+      ManaOrb_00117: 880857597
+      ManaOrb_00001: 1916966897
+      ManaOrb_00098: 1189696318
+      ManaOrb_00024: 1289423923
+      ManaOrb_00032: -2052270498
+      ManaOrb_00079: -2000725664
+      ManaOrb_00029: 175230498
+      ManaOrb_00016: -1918070069
+      ManaOrb_00063: 1869717864
+      ManaOrb_00093: -649056041
+      ManaOrb_00104: 1550306222
+      ManaOrb_00084: -635478395
+      ManaOrb_00000: 1966305515
+      ManaOrb_00068: 1768260451
+      ManaOrb_00033: 1682776692
+      ManaOrb_00083: 1464758328
+      ManaOrb_00034: -552330441
+      ManaOrb_00022: -900814131
+      ManaOrb_00075: -2139020125
+      ManaOrb_00094: 899473834
+      ManaOrb_00056: 1543102436
+      ManaOrb_00038: 167244832
+      ManaOrb_00106: 1209978447
+      ManaOrb_00069: -662061203
+      ManaOrb_00081: -1660091795
+      ManaOrb_00061: 619212796
+      ManaOrb_00113: 752313107
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
